@@ -2,9 +2,9 @@
 
 ## Profils locaux et densité des ensembles sans progression géométrique
 
-**Aurélien Collado — Prix Fermat Junior 2026**
+**Aurélien Collado Prix Fermat Junior 2026**
 
-Ce dépôt accompagne mon mémoire pour le Prix Fermat Junior 2026.
+Ce dépôt accompagne mon mémoire soumis pour le Prix Fermat Junior 2026.
 
 ## Résultat principal
 
@@ -59,5 +59,3 @@ En particulier, le résultat \(\Delta_{19}(361)=1\) est certifié par ordinateur
 ## Auteur
 
 **Aurélien Collado**  
-Prix Fermat Junior 2026  
-Octobre 2026
