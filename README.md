@@ -2,7 +2,7 @@
 
 ## Profils locaux et densité des ensembles sans progression géométrique
 
-**Aurélien Collado Prix Fermat Junior 2026**
+**Aurélien Collado soumis aux Prix Fermat Junior 2026**
 
 Ce dépôt accompagne mon mémoire soumis pour le Prix Fermat Junior 2026.
 
@@ -26,7 +26,7 @@ Le paquet complet de vérification associé au mémoire est disponible dans la s
 
 Télécharger :
 
-`Fermat_Junior_2026_Reproducibility_Package.zip`
+`FERMAT_JUNIOR_V13_MCNEW_CLEAN_FIXED_2026-10-07.zip`
 
 Puis extraire l'archive et, depuis sa racine, exécuter :
 
@@ -53,8 +53,8 @@ En particulier, le résultat \(\Delta_{19}(361)=1\) est certifié par ordinateur
 
 ## Fichiers
 
-- `Le_prix_d_une_frontiere.pdf` — mémoire final de 10 pages ;
-- `Fermat_Junior_2026_Reproducibility_Package.zip` — archive complète de reproductibilité, disponible dans **Releases**.
+- `Le_prix_d_une_frontiere.pdf`  mémoire final de 10 pages ;
+- `FERMAT_JUNIOR_V13_MCNEW_CLEAN_FIXED_2026-10-07.zip`  archive complète de reproductibilité, disponible dans **Releases**.
 
 ## Auteur
 
