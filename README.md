@@ -18,7 +18,7 @@ Le mémoire final comporte 10 pages.
 
 Le mémoire complet est disponible ici :
 
-[**Lire le mémoire — PDF**](https://github.com/Aurelien06530/Le-prix-d-une-frontiere/blob/main/Le_prix_d_une_frontie%CC%80re.pdf)
+[**Lire le mémoire — PDF**](https://github.com/Aurelien06530/Le-prix-d-une-frontiere/blob/main/Le_prix_d_une_frontiere.pdf)
 
 ## Reproductibilité
 
