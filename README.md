@@ -22,13 +22,11 @@ Le mémoire complet est disponible ici :
 
 ## Reproductibilité
 
-Le paquet complet de vérification associé au mémoire est disponible dans la section **Releases** de ce dépôt.
+Le paquet complet de vérification est disponible dans la section **Releases** de ce dépôt :
 
-Télécharger :
+`Fermat_Junior_2026_Reproducibility_Package.zip`
 
-`FERMAT_JUNIOR_V13_MCNEW_CLEAN_FIXED_2026-10-07.zip`
-
-Puis extraire l'archive et, depuis sa racine, exécuter :
+Après téléchargement et extraction, lancer depuis la racine :
 
 ```bash
 python3 VERIFY.py
@@ -37,9 +35,19 @@ python3 VERIFY.py
 Une vérification complète réussie se termine par :
 
 ```text
+0.7397389699 < alpha < 0.7626348308
 ALL_VERIFIED
 ```
 
+Le paquet contient :
+
+- le mémoire français officiel ;
+- les sources LaTeX français et anglais ;
+- une traduction anglaise supplémentaire ;
+- les certificats exacts et leurs vérificateurs ;
+- un manifeste SHA-256.
+
+ 
 Le vérificateur reconstruit les entiers friables et les progressions géométriques à partir de la relation \(b^2=ac\), puis contrôle les témoins et certificats en arithmétique exacte.
 
 Le mémoire distingue explicitement :
@@ -51,10 +59,14 @@ Le mémoire distingue explicitement :
 
 En particulier, le résultat \(\Delta_{19}(361)=1\) est certifié par ordinateur, mais n'est pas utilisé dans l'encadrement final de \(\alpha\).
 
+## Intégrité
+
+Le paquet contient `MANIFEST_SHA256.txt`, qui fournit le SHA-256 des fichiers distribués.
+
 ## Fichiers
 
 - `Le_prix_d_une_frontiere.pdf`  mémoire final de 10 pages ;
-- `FERMAT_JUNIOR_V13_MCNEW_CLEAN_FIXED_2026-10-07.zip`  archive complète de reproductibilité, disponible dans **Releases**.
+- `Fermat_Junior_2026_Reproducibility_Package.zip`  archive complète de reproductibilité, disponible dans **Releases**.
 
 ## Auteur
 
